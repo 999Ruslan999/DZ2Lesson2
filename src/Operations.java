@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public enum Operations {
+public enum Operations {
+    MULTIPLICATION,
+    ADDITION,
+    AVERAGE;
+
 }
